@@ -2,7 +2,7 @@
 - 👀 I’m interested in to get work exprience from seniors team
 - 🌱 I’m currently practicing in Full stack devolopment
 - 💞️ I’m looking to collaborate with data scientist for my project
-- 📫 How to reach me --  theazimjon@gmail.com 
+- 📫 How to reach me --  theazimjon@gmail.com, https://t.me/Azimjon_Umarov
 - ❗️Ko'chirish uchun kelgan studentlar follow qib qo'yinglar kodni ko'chirganga yarasha😅
 - 
 <!---
