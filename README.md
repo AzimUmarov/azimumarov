@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing in Full stack devolopment
 - 💞️ I’m looking to collaborate with data scientist for my project
 - 📫 How to reach me --  theazimjon@gmail.com 
-- ❗️Ko'chirish uchun kelgan studentlar follow qib qo'yinglar kodni ko'chirganga yarasha😅)
+- ❗️Ko'chirish uchun kelgan studentlar follow qib qo'yinglar kodni ko'chirganga yarasha😅
 - 
 <!---
 theazimjon/theazimjon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
