@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theazimjon
 - 👀 I’m interested in to get work exprience from seniors team
 - 🌱 I’m currently practicing in Full stack devolopment
-- 💞️ I’m looking to collaborate with data scientist for my project
 - 📫 How to reach me --  theazimjon@gmail.com, https://t.me/Azimjon_Umarov
 - 
 <!---
