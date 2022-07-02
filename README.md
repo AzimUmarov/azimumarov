@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azimjon Umarov
 - 👀 I’m interested in to get work exprience from seniors team
 - 🌱 I’m currently practicing in Full stack devolopment
-- 🌱 I’m currently studying at Astrun IT Academy Qwasar.io platform
+- 🌱 I’m currently studying at Astrum IT Academy Qwasar.io platform
 - 📫 How to reach me --  theazimjon@gmail.com, https://t.me/Azimjon_Umarov
 
 <!---
