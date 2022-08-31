@@ -20,6 +20,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 - 👀 I’m interested in to get work exprience from seniors team 
 
 ##
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='center'  />
 <div style="display: flex;" align="right" >
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" />&nbsp;    &nbsp;
@@ -27,8 +28,6 @@ now ready for my next challenge and hope to find a role where I can continue to 
   <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" />&nbsp; &nbsp;
 </div>
-<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='center'  />
-<br />
 
 **🛠 Back-end**
 
