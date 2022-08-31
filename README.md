@@ -20,7 +20,6 @@ now ready for my next challenge and hope to find a role where I can continue to 
 - 👀 I’m interested in to get work exprience from seniors team 
 
 ##
-<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='center'  />
 <div style="display: flex;" align="right" >
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" />&nbsp;    &nbsp;
@@ -28,7 +27,8 @@ now ready for my next challenge and hope to find a role where I can continue to 
   <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" />&nbsp; &nbsp;
 </div>
-
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='center'  />
+<br />
 
 **🛠 Back-end**
 
@@ -38,7 +38,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 <code><img height="30" src="https://iconape.com/wp-content/files/nk/99599/svg/sinatra.svg" > Sinatra</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
 
-**🌳Front-end**
+**🌳 Front-end**
 
 <code><img height="30" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"> HTML</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"> CSS</code>&nbsp; &nbsp;
@@ -47,18 +47,18 @@ now ready for my next challenge and hope to find a role where I can continue to 
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> ReactJs</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MaterialUI</code>&nbsp; &nbsp;
 
-**💽Databases**
+**💽 Databases**
 
 <code><img height="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"> MongoDb</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"> SQLite</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> Redis</code>&nbsp; &nbsp;
 
-**☁️Cloud Servers**
+**☁️ Cloud Servers**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
 
-**🧰Tools**
+**🧰 Tools**
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
