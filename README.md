@@ -4,7 +4,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' />
 
 [![Linkedin Badge](https://img.shields.io/badge/-theazimjon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theazimjon/)](https://www.linkedin.com/in/theazimjon/) &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-theazimjon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/theazimjon/)](https://instagram.com/theazimjon) &nbsp;
+[![Facebook Badge](https://img.shields.io/badge/-theazimj0n-purple?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/TheAzimj0n)](https://instagram.com/theazimjon) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-theazimjon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theazimjon@gmail.com)](mailto:theazimjon@gmail.com) &nbsp;
 [![Telegram Badge](https://img.shields.io/badge/-theazimj0n-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/theazimj0n)](https://t.me/theazimj0n)
 
