@@ -63,3 +63,14 @@ now ready for my next challenge and hope to find a role where I can continue to 
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;
+
+##
+
+<p> <img src="https://komarev.com/ghpvc/?username=theazimjon&label=Profile%20views&color=0e75b6&style=flat" alt="theazimjon" /> </p>
+
+
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=theazimjon&theme=dark&hide_border=true"/>
+    <img align="right"  src="https://github-readme-stats.vercel.app/api?username=theazimjon&show_icons=true&theme=dark&hide_border=true" /> 
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theazimjon&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide_border=true" /> -->
+<div>
