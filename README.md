@@ -70,7 +70,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=theazimjon&theme=dark&hide_border=true"/>
-    <img align="right"  src="https://github-readme-stats.vercel.app/api?username=theazimjon&show_icons=true&theme=dark&hide_border=true" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=theazimjon&theme=dark&hide_border=true" width="50%"/>
+    <img align="right"  src="https://github-readme-stats.vercel.app/api?username=theazimjon&show_icons=true&theme=dark&hide_border=true" width="45%" /> 
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theazimjon&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide_border=true" /> -->
 <div>
