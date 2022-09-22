@@ -42,6 +42,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 <code><img height="30" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"> HTML</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"> CSS</code>&nbsp; &nbsp;
 <code><img height="30" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"> SCSS</code>&nbsp; &nbsp;
+<code><img height="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"> Bootsrapt</code>&nbsp; &nbsp;
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"> JavaScript</code>&nbsp; &nbsp;
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> ReactJs</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MaterialUI</code>&nbsp; &nbsp;
@@ -63,6 +64,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;
+<code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
 
 ##
 
