@@ -14,7 +14,7 @@ school days, I became very interested in programming. I learned on my own and wr
 After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m
 now ready for my next challenge and hope to find a role where I can continue to develop my skills.
 
-- 🌱 I’m currently working with my team at pet projects 
+- 🌱 I’m currently freelancing with my team
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
  I’m currently finishing my study at Qwasar.io Slicon Walley 
 - 👀 I’m interested in to get work exprience from seniors team 
