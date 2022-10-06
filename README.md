@@ -11,8 +11,7 @@
 
 Confident and fast-learning FullStack Engineer looking for an impactful role at a great team of experienced programmers. During my
 school days, I became very interested in programming. I learned on my own and wrote programs that benefited me and those around me.
-After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m
-now ready for my next challenge and hope to find a role where I can continue to develop my skills.
+After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m now ready for my next challenge and hope to find a great company with room for advancement.
 
 - 🌱 I’m currently freelancing with my team
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
