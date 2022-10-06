@@ -33,7 +33,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp; | &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
 
@@ -63,7 +63,7 @@ now ready for my next challenge and hope to find a role where I can continue to 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;  | &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
 
 ##
