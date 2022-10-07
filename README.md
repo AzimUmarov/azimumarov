@@ -24,6 +24,7 @@ After graduating, I came to the capital of my country to become a strong expert 
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" />&nbsp;    &nbsp;
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" />&nbsp; &nbsp;
+   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="JavaScript" />&nbsp; &nbsp;
   <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" />&nbsp; &nbsp;
 </div>
@@ -50,7 +51,8 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 <code><img height="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"> MongoDb</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"> SQLite</code>&nbsp; &nbsp;
-<code><img height="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> Redis</code>&nbsp; &nbsp;
+<code><img height="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> Redis</code>&nbsp; &nbsp; | &nbsp;
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png"> MySQL</code>&nbsp; &nbsp;
 
 **☁️ Cloud Servers**
 
@@ -62,6 +64,7 @@ After graduating, I came to the capital of my country to become a strong expert 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
+<code><img height="30" src="https://flowxo.com/wp-content/uploads/2021/03/Telegram-Logo-512x512.png"> Telegram bot</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;  | &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
 
