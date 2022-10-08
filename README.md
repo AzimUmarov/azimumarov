@@ -1,7 +1,7 @@
 ## Hi, I’m Azimjon Umarov  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" />
 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' />
+<!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' /> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-theazimjon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theazimjon/)](https://www.linkedin.com/in/theazimjon/) &nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-theazimj0n-purple?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/TheAzimj0n)](https://instagram.com/theazimjon) &nbsp;
@@ -13,13 +13,16 @@ Confident and fast-learning FullStack Engineer looking for an impactful role at 
 school days, I became very interested in programming. I learned on my own and wrote programs that benefited me and those around me.
 After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m now ready for my next challenge and hope to find a great company with room for advancement.
 
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
+
 - 🌱 I’m currently freelancing with my team
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
  I’m currently finishing my study at Qwasar.io Slicon Walley 
 - 👀 I’m interested in to get work exprience from seniors team 
 
+
 ##
-<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
+
 <!-- <div style="display: flex;" align="right" >
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" />&nbsp;    &nbsp;
@@ -55,7 +58,7 @@ After graduating, I came to the capital of my country to become a strong expert 
 **☁️ Cloud Servers**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
+<code><img height="30" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"> Firebase</code>
 
 **🧰 Others**
 
@@ -69,10 +72,10 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 ***Also I have knowledge:**
 
- <code> <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></code>&nbsp; &nbsp;
- <code>  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" /></code>&nbsp; &nbsp;
+ <code> <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /> Java</code>&nbsp; &nbsp;
+ <code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
+ <code>  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" /> Ruby</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png"> MySQL </code>&nbsp; &nbsp;
 
