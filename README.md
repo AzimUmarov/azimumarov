@@ -33,9 +33,8 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp; | &nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp;
+
 
 **🌳 Front-end**
 
@@ -51,22 +50,28 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 <code><img height="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"> MongoDb</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"> SQLite</code>&nbsp; &nbsp;
-<code><img height="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> Redis</code>&nbsp; &nbsp; | &nbsp;
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png"> MySQL</code>&nbsp; &nbsp;
+<code><img height="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> Redis</code>&nbsp; &nbsp;
 
 **☁️ Cloud Servers**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"></code>
 
-**🧰 Tools**
+**🧰 Others**
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
 <code><img height="30" src="https://flowxo.com/wp-content/uploads/2021/03/Telegram-Logo-512x512.png"> Telegram bot</code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;  | &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;
+
+***Also I have knowledge:**
+
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png"> MySQL </code>&nbsp; &nbsp;
+
 
 ##
 
