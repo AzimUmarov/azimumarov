@@ -19,15 +19,15 @@ After graduating, I came to the capital of my country to become a strong expert 
 - 👀 I’m interested in to get work exprience from seniors team 
 
 ##
-<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='center'  />
-<div style="display: flex;" align="right" >
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
+<!-- <div style="display: flex;" align="right" >
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" />&nbsp;    &nbsp;
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" />&nbsp; &nbsp;
    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="JavaScript" />&nbsp; &nbsp;
   <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" />&nbsp; &nbsp;
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" />&nbsp; &nbsp;
-</div>
+</div> -->
 
 **🛠 Back-end**
 
@@ -59,6 +59,8 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 **🧰 Others**
 
+<code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    /> </code> &nbsp; &nbsp;
+<code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" /></code> &nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
@@ -67,6 +69,8 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 ***Also I have knowledge:**
 
+ <code> <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></code>&nbsp; &nbsp;
+ <code>  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" /></code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" > SpringBoot</code>&nbsp; &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
