@@ -77,8 +77,6 @@ After graduating, I came to the capital of my country to become a strong expert 
  <code>  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" /> Ruby</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png"> MySQL </code>&nbsp; &nbsp;
-
 
 ##
 
