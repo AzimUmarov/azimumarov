@@ -17,7 +17,7 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 - 🌱 I’m currently freelancing with my team
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
- I’m currently finishing my study at Qwasar.io Slicon Walley 
+ Graduate Qwasar.io Slikon Valley | Astrum IT Academy
 - 👀 I’m interested in to get work exprience from seniors team 
 
 
