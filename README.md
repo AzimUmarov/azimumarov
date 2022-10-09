@@ -40,7 +40,7 @@ After graduating, I came to the capital of my country to become a strong expert 
 <code><img height="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"> Bootsrapt</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.workinggears.com/images/services/js-ts.jpg"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> ReactJs</code>&nbsp; &nbsp;
-<code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MaterialUI</code>&nbsp; &nbsp;
+<code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MUI</code>&nbsp; &nbsp;
 
 **🛠 Back-end**
 
