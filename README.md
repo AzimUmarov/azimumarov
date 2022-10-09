@@ -32,22 +32,22 @@ After graduating, I came to the capital of my country to become a strong expert 
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="Ruby" />&nbsp; &nbsp;
 </div> -->
 
-**🛠 Back-end**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>&nbsp; &nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp; | &nbsp;
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
-
 **🌳 Front-end**
 
 <code><img height="30" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"> HTML</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"> CSS</code>&nbsp; &nbsp;
 <code><img height="30" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"> SCSS</code>&nbsp; &nbsp;
 <code><img height="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"> Bootsrapt</code>&nbsp; &nbsp;
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"> JavaScript</code>&nbsp; &nbsp;
+<code><img height="30" src="https://www.workinggears.com/images/services/js-ts.jpg"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> ReactJs</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MaterialUI</code>&nbsp; &nbsp;
+
+**🛠 Back-end**
+
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>&nbsp; &nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>&nbsp; &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp; 
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
 
 **💽 Databases**
 
@@ -62,7 +62,7 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 **🧰 Others**
 
-<code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C"    /> </code> &nbsp; &nbsp;
+<code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" /></code> &nbsp; &nbsp;
 <code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" /></code> &nbsp; &nbsp;
  <code> <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /> Java</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
