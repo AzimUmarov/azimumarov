@@ -9,11 +9,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-theazimj0n-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/theazimj0n)](https://t.me/theazimj0n)
 
 
-Confident and fast-learning Back-end engineer looking for an impactful role at a great team of experienced programmers. During my
+Confident and fast-learning FullStack Engineer(Back-end preferred) looking for an impactful role at a great team of experienced programmers. During my
 school days, I became very interested in programming. I learned on my own and wrote programs that benefited me and those around me.
 After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m now ready for my next challenge and hope to find a great company with room for advancement.
 
-<!-- <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  /> -->
+<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
 
 - 🌱 I’m currently freelancing with my team
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
@@ -41,6 +41,16 @@ After graduating, I came to the capital of my country to become a strong expert 
 <code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp; 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
 
+**🌳 Front-end**
+
+<code><img height="30" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"> HTML</code>&nbsp; &nbsp;
+<code><img height="30" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"> CSS</code>&nbsp; &nbsp;
+<code><img height="30" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"> SCSS</code>&nbsp; &nbsp;
+<code><img height="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"> Bootsrapt</code>&nbsp; &nbsp;
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> ReactJs</code>&nbsp; &nbsp;
+<code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MUI</code>&nbsp; &nbsp;
+
+
 **💽 Databases**
 
 <code><img height="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"> MongoDb</code>&nbsp; &nbsp;
@@ -52,23 +62,10 @@ After graduating, I came to the capital of my country to become a strong expert 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png"> Firebase</code>
 
-<!--
-**🌳 Front-end**
-
-<code><img height="30" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"> HTML</code>&nbsp; &nbsp;
-<code><img height="30" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"> CSS</code>&nbsp; &nbsp;
-<code><img height="30" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"> SCSS</code>&nbsp; &nbsp;
-<code><img height="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"> Bootsrapt</code>&nbsp; &nbsp;
-<code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MUI</code>&nbsp; &nbsp; -->
-
-
-
-
-**🌳 Others**
+**🧰 Others**
 
 <code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" /></code> &nbsp; &nbsp;
 <code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" /></code> &nbsp; &nbsp;
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> Front-end</code>&nbsp; &nbsp;
  <code> <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /> Java</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"> Linux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/W/wordpress-logo-24439D45A6-seeklogo.com.png"> WordPress</code>&nbsp; &nbsp;
