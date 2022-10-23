@@ -72,6 +72,8 @@ After graduating, I came to the capital of my country to become a strong expert 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png"> JetBrains</code>&nbsp; &nbsp;
 <code><img height="30" src="https://flowxo.com/wp-content/uploads/2021/03/Telegram-Logo-512x512.png"> Telegram bot</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;
+<code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
+
 
 ##
 
