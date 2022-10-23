@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-theazimj0n-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/theazimj0n)](https://t.me/theazimj0n)
 
 
-Confident and fast-learning FullStack Engineer(Back-end preferred) looking for an impactful role at a great team of experienced programmers. During my
+Confident and fast-learning FullStack Engineer looking for an impactful role at a great team of experienced programmers. During my
 school days, I became very interested in programming. I learned on my own and wrote programs that benefited me and those around me.
 After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m now ready for my next challenge and hope to find a great company with room for advancement.
 
