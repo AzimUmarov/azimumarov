@@ -39,7 +39,6 @@ After graduating, I came to the capital of my country to become a strong expert 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" > NestJs</code>&nbsp; &nbsp; 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/822px-Ruby_On_Rails_Logo.svg.png?20170116014735" ></code>&nbsp; &nbsp;
 
 **🌳 Front-end**
 
