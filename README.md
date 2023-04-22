@@ -54,6 +54,7 @@ After graduating, I came to the capital of my country to become a strong expert 
 
 <code><img height="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"> MongoDb</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg"> Redis</code>&nbsp; &nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png"> PostgreSQL</code>&nbsp; &nbsp;
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"> SQLite</code>&nbsp; &nbsp;
 
 **☁️ Cloud Servers**
