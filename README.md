@@ -6,12 +6,7 @@ If you come here for see my portfolio please write me I'll give you access to my
 [![Linkedin Badge](https://img.shields.io/badge/-theazimjon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theazimjon/)](https://www.linkedin.com/in/theazimjon/) &nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-theazimj0n-purple?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/TheAzimj0n)](https://www.facebook.com/TheAzimj0n) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-theazimjon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theazimjon@gmail.com)](mailto:theazimjon@gmail.com) &nbsp;
-[![Telegram Badge](https://img.shields.io/badge/-theazimj0n-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/theazimj0n)](https://t.me/theazimj0n)
-
-
-Confident and fast-learning FullStack Engineer looking for an impactful role at a great team of experienced programmers. During my
-school days, I became very interested in programming. I learned on my own and wrote programs that benefited me and those around me.
-After graduating, I came to the capital of my country to become a strong expert in this field and I am continuing my process full time. I’m now ready for my next challenge and hope to find a great company with room for advancement.
+[![Telegram Badge](https://img.shields.io/badge/-theazimj0n-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/theazimj0n)](https://t.me/theazimj0n
 
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
 
