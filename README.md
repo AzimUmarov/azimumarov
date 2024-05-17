@@ -10,11 +10,11 @@ If you come here for see my portfolio please write me I'll give you access to my
 
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
 
-- 🌱 I’m currently freelancing with my team
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
- Graduate Qwasar.io Slikon Valley | Astrum IT Academy
-- 👀 I’m interested in to get work exprience from seniors team 
+   I graduated from Astrum IT Academy with second-place honors among over 100 students, showcasing my commitment and proficiency in the field.
+- 🌱  Currently, I work at Najot Ta'lim LLC and contribute as a full-stack developer with the freelance team Alfraganaz. I am also pursuing a Bachelor's degree in Computer Science, further expanding my technical knowledge and skills.
 
+I am always eager to connect with fellow professionals and explore new opportunities to grow and contribute to the tech community. Feel free to reach out!
 
 ##
 
@@ -39,7 +39,6 @@ If you come here for see my portfolio please write me I'll give you access to my
 
 <code><img height="30" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"> HTML</code>&nbsp; &nbsp;
 <code><img height="30" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"> CSS</code>&nbsp; &nbsp;
-<code><img height="30" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"> SCSS</code>&nbsp; &nbsp;
 <code><img height="30" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png"> Bootsrapt</code>&nbsp; &nbsp;
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"> ReactJs & Redux</code>&nbsp; &nbsp;
 <code><img height="30" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"> MUI</code>&nbsp; &nbsp;
@@ -69,14 +68,4 @@ If you come here for see my portfolio please write me I'll give you access to my
 <code><img height="30" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"> Git</code>&nbsp; &nbsp;
 <code><img height="30" src="https://miro.medium.com/max/672/0*I86u-SR620EEnM-X.png"></code>&nbsp; &nbsp;
 
-
-##
-
-<p> <img src="https://komarev.com/ghpvc/?username=theazimjon&label=Profile%20views&color=0e75b6&style=flat" alt="theazimjon" /> </p>
-
-
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=theazimjon&theme=dark&hide_border=true" width="50%"/>
-    <img align="right"  src="https://github-readme-stats.vercel.app/api?username=theazimjon&show_icons=true&theme=dark&hide_border=true" width="45%" /> 
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theazimjon&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide_border=true" /> -->
 <div>
