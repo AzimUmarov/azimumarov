@@ -3,12 +3,10 @@ If you come here for see my portfolio please write me I'll give you access to my
 
 <!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' /> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-theazimjon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azimumarov/)](https://www.linkedin.com/in/theazimjon/) &nbsp;
-[![Facebook Badge](https://img.shields.io/badge/-theazimj0n-purple?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/TheAzimj0n)](https://www.facebook.com/azimumarov4) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-theazimjon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theazimjon@gmail.com)](mailto:azim_umarov@outlook.com) &nbsp;
-[![Telegram Badge](https://img.shields.io/badge/-theazimj0n-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/theazimj0n)](https://t.me/azim_umarov) &nbsp;
-
-<img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/640px-MERN-logo.png" align='right'  />
+[![Linkedin Badge](https://img.shields.io/badge/-azimumarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azimumarov/)](https://www.linkedin.com/in/azimumarov/) &nbsp;
+[![Facebook Badge](https://img.shields.io/badge/-azimumarov4-purple?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/azimumarov4)](https://www.facebook.com/azimumarov4) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-azim_umarov@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:azim_umarov@outlook.com)](mailto:azim_umarov@outlook.com) &nbsp;
+[![Telegram Badge](https://img.shields.io/badge/-Azim_Umarov-blue?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/Azim_Umarov)](https://t.me/Azim_Umarov) &nbsp;
 
 - <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
    I graduated from Astrum IT Academy with second-place honors among over 100 students, showcasing my commitment and proficiency in the field.
