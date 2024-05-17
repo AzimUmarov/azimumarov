@@ -1,5 +1,4 @@
 ## Hi, I’m Azimjon Umarov  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" />
-If you come here for see my portfolio please write me I'll give you access to my all portfolio projects repos
 
 <!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' /> -->
 
