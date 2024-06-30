@@ -5,9 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-azimumarov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azimumarov/)](https://www.linkedin.com/in/azimumarov/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-azim_umarov@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:azim_umarov@outlook.com)](mailto:azim_umarov@outlook.com) &nbsp;
 
-- <span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
-   I graduated from Astrum IT Academy with second-place honors among over 100 students, showcasing my commitment and proficiency in the field.
-- 🌱  Currently, I work at Najot Ta'lim LLC and contribute as a full-stack developer with the freelance team Alfraganaz. I am also pursuing a Bachelor's degree in Computer Science, further expanding my technical knowledge and skills.
+- 🌱  Currently, I work at Najot Ta'lim and contribute as a full-stack developer with the team Alfraganaz. I am also pursuing a Bachelor's degree in Computer Science, further expanding my technical knowledge and skills.
 
 I am always eager to connect with fellow professionals and explore new opportunities to grow and contribute to the tech community. Feel free to reach out!
 
