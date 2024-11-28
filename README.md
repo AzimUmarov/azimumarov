@@ -12,96 +12,35 @@ I am always eager to connect with fellow professionals and explore new opportuni
 
 ## **🛠 Technologies**
 
-<code>
-<img width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" />
-JavaScript
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" />
-TypeScript
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
-Node.js
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
-React.js
-</code> &nbsp; &nbsp;
+<code><img width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" />JavaScript</code> &nbsp; &nbsp;
+<code><img width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" />TypeScript</code> &nbsp; &nbsp;
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />Node.js</code> &nbsp; &nbsp;
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />React.js</code> &nbsp; &nbsp;
 
 <br />
 
-<code>
-<img width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"  />
- Nest.js
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  />
- Next.js
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"  />
-Redux
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"  />
- MUI
-</code> &nbsp; &nbsp;
+<code><img width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"  />Nest.js</code> &nbsp; &nbsp;
+<code><img width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  />Next.js</code> &nbsp; &nbsp;
+<code><img width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"  />Redux</code> &nbsp; &nbsp;
+<code><img width="40" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"  />MUI</code> &nbsp; &nbsp;
 
 <br />
 
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"  />
-Tailwind CSS
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"  />
-SASS
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"  />
-CSS
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  />
-HTML
-</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"  />Tailwind CSS</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"  />SASS</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"  />CSS</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  />HTML</code> &nbsp; &nbsp;
 
 <br />
 
-
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  />
-PostgreSQL
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"  />
-MongoDb
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://www.svgrepo.com/show/303460/redis-logo.svg"  />
-Redis
-</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  />PostgreSQL</code> &nbsp; &nbsp;
+<code><img width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"  />MongoDb</code> &nbsp; &nbsp;
+<code><img width="40" src="https://www.svgrepo.com/show/303460/redis-logo.svg"  />Redis</code> &nbsp; &nbsp;
 
 <br />
 
-<code>
-<img width="40" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"  />
-Git
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"  />
-Docker
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  />
-AWS
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"  />
-WordPress
-</code> &nbsp; &nbsp;
-<code>
-<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  />
-Bots
-</code> &nbsp; &nbsp;
+<code><img width="40" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"  />Git</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"  />Docker</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  />AWS</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"  />WordPress</code> &nbsp; &nbsp;
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  />Bots</code> &nbsp; &nbsp;
