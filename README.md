@@ -8,39 +8,49 @@
 
 I am always eager to connect with fellow professionals and explore new opportunities to grow and contribute to the tech community. Feel free to reach out!
 
-##
-
 ## **🛠 Technologies**
 
-<code><img width="40" src="https://www.svgrepo.com/show/349419/javascript.svg" />JavaScript</code> &nbsp; &nbsp;
-<code><img width="40" src="https://www.svgrepo.com/show/349540/typescript.svg" />TypeScript</code> &nbsp; &nbsp;
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />Node.js</code> &nbsp; &nbsp;
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />React.js</code> &nbsp; &nbsp;
+### **Frontend**
 
-<br />
+* **Languages**: HTML5, CSS3, Sass/SCSS, Less, JavaScript (ES6+), TypeScript.
+* **Frameworks/Libraries**: React.js, Vue.js, Next.js, Nuxt.js.
+* **Styling**: Tailwind CSS, Material UI (MUI), Styled Components, CSS Modules, BEM, OOCSS, SMACSS and ITCSS methodologies.
+* **Build Tools**: Vite, Webpack, Babel.
+* **State Management**: Redux, Vuex, Pinia, Context API.
+* **Testing**: Jest, React Testing Library, Cypress, Playwright, Storybook (for UI components).
+* **Accessibility & Performance**: Lighthouse, Axe DevTools, Web Vitals.
 
-<code><img width="40" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"  />Nest.js</code> &nbsp; &nbsp;
-<code><img width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  />Next.js</code> &nbsp; &nbsp;
-<code><img width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg"  />Redux</code> &nbsp; &nbsp;
-<code><img width="40" src="https://www.freelogovectors.net/svg12/mui-logo-freelogovectors.net.svg"  />MUI</code> &nbsp; &nbsp;
+### **Backend**
 
-<br />
+* **Languages & Platforms**: Node.js, Java (Spring Boot), TypeScript.
+* **Frameworks**: Express.js, NestJS, Spring Boot.
+* **APIs**: REST, GraphQL, WebSockets.
+* **Authentication & Security**: JWT, OAuth2, Passport.js, Bcrypt, Helmet.
 
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"  />Tailwind CSS</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"  />SASS</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"  />CSS</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  />HTML</code> &nbsp; &nbsp;
+### **DevOps & Infrastructure**
 
-<br />
+* **CI/CD**: Jenkins, GitHub Actions.
+* **Containerization & Orchestration**: Docker, Docker Compose, basic Kubernetes.
+* **Operating Systems**: Ubuntu, macOS, Windows (WSL).
+* **Monitoring & Logs**: Prometheus, Grafana (basic), Logstash, Kibana (ELK).
 
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  />PostgreSQL</code> &nbsp; &nbsp;
-<code><img width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"  />MongoDb</code> &nbsp; &nbsp;
-<code><img width="40" src="https://www.svgrepo.com/show/303460/redis-logo.svg"  />Redis</code> &nbsp; &nbsp;
+### **Databases & Caching**
 
-<br />
+* **SQL**: PostgreSQL, MySQL.
+* **NoSQL**: MongoDB, Redis.
+* **ORMs/Query Builders**: Prisma, TypeORM, Sequelize.
 
-<code><img width="40" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"  />Git</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg"  />Docker</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  />AWS</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"  />WordPress</code> &nbsp; &nbsp;
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  />Bots</code> &nbsp; &nbsp;
+### **Cloud & Hosting**
+
+* **Cloud Services**: AWS (EC2, S3, Lambda, RDS), Vercel, Netlify.
+* **Basic Infrastructure as Code**: Terraform (beginner), Dockerfiles.
+
+### **Automation & Scripting**
+
+* Shell scripting (Bash), npm scripts, Node-based CLI tools.
+
+### **Collaboration & Methodologies**
+
+* Git, GitHub, GitLab.
+* Agile, Scrum, Jira.
+* Code Reviews, Pair Programming.
